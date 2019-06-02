@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Resume Preview](/home/satyam/Videos/startbootstrap-resume-gh-pages/css/porfolio.png)](https://ssatyamchauhan.github.io/Portfolio/)
+[![Resume Preview](https://github.com/ssatyamchauhan/Portfolio/blob/master/css/porfolio.png?raw=true)](https://ssatyamchauhan.github.io/Portfolio/)
 
 **[View Live Preview](https://ssatyamchauhan.github.io/Portfolio/)**
 
